@@ -1,3 +1,0 @@
-#Udemy project
-
-# C-Unity
