@@ -7,18 +7,27 @@ after start, player will see start screen from where the player can start game.
 after that the player can click on quest and click himself through the forest
 while walking the player will encounter two monsters which he has to beat by clicking on their sprites
 after that the player will be awarded with a treasure chest. then the player can return to village 
+
 PLAYER STATS:
 
 -hp
 -attackPower
-ENEMY STATS::
+
+ENEMY STATS:
+
 -hp
+
 
 game is basically the game from the course.
 
 c#sharp rawFiles also attached in folder "#rawScripts"
 
 udemy course: https://www.udemy.com/course/unity2darpg/ (course description is in japanese)
+
+
+
+
+
 
 assets:
 # https://assetstore.unity.com/packages/2d/gui/fantasy-wooden-gui-free-103811
