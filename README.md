@@ -22,7 +22,7 @@ game is basically the game from the course.
 
 c#sharp rawFiles also attached in folder "#rawScripts"
 
-udemy course: https://www.udemy.com/course/unity2darpg/ (course description is in japanese)
+udemy course: https://www.udemy.com/course/studio_shimazu_nfrpg/ (course description is in japanese)
 
 
 
