@@ -6,16 +6,15 @@ GAMEFLOW:
 after start, player will see start screen from where the player can start game.
 after that the player can click on quest and click himself through the forest
 while walking the player will encounter two monsters which he has to beat by clicking on their sprites
-after that the player will be awarded with a treasure chest. then the player can return to village 
 
-PLAYER STATS:
+Round based fight
+with clicking the HP of the enemy will decrease according to attack power of player 
+after that, the enemy attacks and the HP of player will drop according to attack power of enemy
 
--hp
--attackPower
 
-ENEMY STATS:
+after the defeating the enemies, the player  will be awarded with a treasure chest. then the player can return to village 
 
--hp
+
 
 
 game is basically the game from the course.
